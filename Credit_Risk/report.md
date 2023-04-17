@@ -27,7 +27,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ## Summary
 
-Summarise the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
+Summarise the results of the machine learning models, and include a recommendation on the model to use.
 * Both models have good accuracy and Healthy Loan scores.
 * However, model 2 witnesses the higer Unhealthy Loan recall percentage indicating that Model 2 is better to use.
 
