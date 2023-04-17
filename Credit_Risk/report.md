@@ -2,8 +2,7 @@
 
 ## Overview of the Analysis
 
-* This data analysis uses historical lending activity from a lending services company to build a model that can identify the creditworthiness of borrowers.
-Based on the information of provided examples, it builds a model via Machine Learning - Logistic Regression method to predict future outcome. 
+* This data analysis uses historical lending activity from a lending services company to build a model that can identify the creditworthiness of borrowers. Via Machine Learning - Logistic Regression method, it predict future outcome of the home loan applications.
 A value of 0 in the “loan_status” column means that the loan is healthy. 
 A value of 1 means that the loan has a high risk of defaulting.
 
